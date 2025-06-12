@@ -1,6 +1,7 @@
 Made by: Muhammad Nur Irfan\
 ID: MC128D5Y0235\
-Path: Fundamental Deep Learning
+Path: Fundamental Deep Learning\
+Google Colab Link: https://colab.research.google.com/drive/1SrE_QpuHNVkQQbpPtv_dAHHJKY_6uq9J?usp=sharing
 
 # Model Overview
 This model is an emotion classification designed for a journaling website, which helps users track and reflect on their emotional states.
