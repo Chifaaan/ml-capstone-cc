@@ -1,0 +1,560 @@
+,teks,label
+0,"Anjir lah, kesel banget gue hari ini! Semua serba salah!",Marah
+1,"Fix, ini orang bikin naik darah aja kerjaannya.",Marah
+2,"Gue udah sabar-sabar, tapi kok malah diinjek-injek sih!",Marah
+3,WTF! Gak abis pikir gue sama kelakuan dia.,Marah
+4,"Panas banget hati gue, sumpah!",Marah
+5,"Bodo amat lah, capek gue marah-marah terus.",Marah
+6,Ini kenapa sih semuanya jadi berantakan gini? Bete!,Marah
+7,"Awas aja ya kalo ketemu, abis lo sama gue!",Marah
+8,"Gue gak terima diginiin, bangke emang!",Marah
+9,"Keselnya udah di ubun-ubun, pengen teriak!",Marah
+10,"Ah elah, kenapa sih selalu gue yang kena sial?",Sedih
+11,"Nyesek banget anjir, gak nyangka bakal gini akhirnya.",Sedih
+12,"Rasanya pengen nangis kejer, tapi malu.",Sedih
+13,"Hancur banget mood gue hari ini, parah.",Sedih
+14,Kok dia tega sih ninggalin gue pas lagi sayang-sayangnya?,Sedih
+15,"Duh, jadi galau gini kan. Kangen mantan.",Sedih
+16,"Ngerasa kosong banget, gak tau mesti ngapain lagi.",Sedih
+17,Kenapa ya hidup gue gini-gini amat? Sedih bet.,Sedih
+18,"Pengen nyerah aja rasanya, capek banget.",Sedih
+19,Kecewa berat sih sama keputusan dia.,Sedih
+20,ASIIIIK! Akhirnya dapet juga barang yang gue incer!,Senang
+21,Happy banget gilaaa! Gak nyangka bisa seberuntung ini.,Senang
+22,"Wihuuu, hari ini berasa indah banget deh!",Senang
+23,"Sumpah, ini berita terbaik yang gue denger minggu ini. Yesss!",Senang
+24,"Gak bisa berhenti senyum-senyum sendiri nih gue, haha.",Senang
+25,Akhirnya liburan juga! Bebas merdeka!,Senang
+26,Mood booster banget nih kejadian barusan. Thanks God!,Senang
+27,"Senengnya gak ketulungan, pengen traktir semua orang!",Senang
+28,"Alhamdulillah, lancar jaya semua urusan hari ini. Mantap!",Senang
+29,"Bahagia itu sederhana, kayak gini nih contohnya.",Senang
+30,"Anjrit, deadline udah di depan mata, belum kelar juga!",Stress
+31,"Gila, pusing banget mikirin tugas numpuk kayak gunung.",Stress
+32,"Duh, deg-degan parah nungguin pengumuman besok.",Stress
+33,"Perut gue mules nih, kebanyakan mikir kayaknya.",Stress
+34,Bisa gak sih waktu berhenti bentar? Gak sanggup gue.,Stress
+35,"Ini gimana caranya anjir, udah mentok banget otaknya.",Stress
+36,"Ngerasa cemas banget, takut hasilnya gak sesuai harapan.",Stress
+37,"Stres berat, butuh healing secepatnya!",Stress
+38,"Aduh, kok jadi overthinking gini sih gue?",Stress
+39,"Berasa dikejar-kejar setan, panik banget!",Stress
+40,"Alhamdulillah, akhirnya masalah kemarin kelar juga. Lega banget.",Bersyukur
+41,"Makasih ya Allah, masih dikasih kesempatan buat ngerasain ini.",Bersyukur
+42,"Gila sih, untung banget tadi gak kenapa-napa. Bersyukur pol.",Bersyukur
+43,"Walaupun sederhana, tapi nikmat banget rasanya. Syukurilah.",Bersyukur
+44,"Setelah semua drama, akhirnya bisa tenang juga. Makasih Tuhan.",Bersyukur
+45,Bersyukur banget punya temen-temen yang selalu support.,Bersyukur
+46,"Ngerasa adem banget hati ini, semua karena-Mu.",Bersyukur
+47,Gak nyangka bisa lewatin ini semua. Alhamdulillahirobbilalamin.,Bersyukur
+48,Setiap hari selalu ada hal kecil yang bisa disyukuri ternyata.,Bersyukur
+49,Terima kasih atas semua berkah hari ini. Bener-bener ngerasa blessed.,Bersyukur
+50,"Asli, kesel banget sama koneksi internet hari ini, bikin emosi!",Marah
+51,"Udah bagus-bagus mood, eh dirusak sama notif gak penting. Kampret.",Marah
+52,Pengen nonjok tembok saking keselnya!,Marah
+53,Ini orang apa gak punya otak sih? Bikin geram aja!,Marah
+54,"Sumpah, pengen menghilang aja dari dunia ini. Capek.",Sedih
+55,"Rasanya kayak diputusin pas lagi sayang-sayangnya, versi pertemanan.",Sedih
+56,Kok hidup gini amat ya? Pengen peluk.,Sedih
+57,"Nangis diem-diem di kamar, biar gak ada yang tau.",Sedih
+58,Yesss! Akhirnya menang juga! Gak sia-sia begadang!,Senang
+59,Gak nyangka dapet surprise seru hari ini! Happy parah!,Senang
+60,"Senyum gue ngembang banget nih, mood lagi bagus banget soalnya.",Senang
+61,"Wagelaseh, dapet diskonan gede banget! Auto kalap!",Senang
+62,"Duh, besok presentasi penting, belum siap materi sama sekali. Panik!",Stress
+63,Mikirin masa depan kok jadi serem gini ya? Cemas banget.,Stress
+64,"Kepala rasanya mau pecah, kebanyakan pikiran.",Stress
+65,Jantung kayak mau copot nungguin kabar dari dia.,Stress
+66,"Alhamdulillah, dapet rejeki nomplok hari ini. Makasih banyak ya Allah.",Bersyukur
+67,Bersyukur banget masih bisa ngumpul bareng keluarga lengkap.,Bersyukur
+68,"Walaupun capek, tapi liat hasilnya jadi bersyukur banget udah usaha.",Bersyukur
+69,Tenang banget rasanya habis cerita semua uneg-uneg. Plong.,Bersyukur
+70,Gue udah capek banget ngadepin tingkah lo yang seenaknya!,Marah
+71,Bisa diem gak sih? Bikin kuping panas aja dari tadi!,Marah
+72,Kalau emang gak niat bantu mending gak usah banyak bacot deh!,Marah
+73,"Kecewa sih, kirain lo beda ternyata sama aja.",Sedih
+74,Nyesek itu ketika harapan gak sesuai kenyataan.,Sedih
+75,Kadang pengen pura-pura bahagia aja biar orang lain gak khawatir.,Sedih
+76,"AAAAAAAAA SENENG BANGET GUE HARI INI, LUV BANGET!",Senang
+77,"Akhirnya goal juga project yang gue kerjain dari lama, bangga!",Senang
+78,"Dapet pujian dari dosen killer? Wih, mantap jiwa!",Senang
+79,"Aduh, gimana nih kalau nanti gagal? Overthinking mode on.",Stress
+80,"Belum apa-apa udah takut duluan, payah emang gue.",Stress
+81,"Pikiran kalut banget, gak bisa fokus sama sekali.",Stress
+82,"Ya Allah, makasih udah dimudahkan segala urusannya hari ini.",Bersyukur
+83,Ngerasa beruntung banget dikelilingi orang-orang baik.,Bersyukur
+84,"Hidup itu emang penuh kejutan ya, bersyukur buat semuanya.",Bersyukur
+85,"Sumpah ya, ini orang bener-bener nguji kesabaran banget!",Marah
+86,"Gue udah coba kalem, tapi kelakuannya makin menjadi-jadi. Asli, bikin emosi jiwa!",Marah
+87,Bangke emang! Seenaknya aja ngomong gak dipikir dulu.,Marah
+88,Ini provider kenapa sih lemotnya kebangetan? Mau banting HP rasanya!,Marah
+89,"Gue gak habis pikir, kok bisa ada orang se-toxic itu sih? Bikin darting!",Marah
+90,"Udah dibilangin baik-baik padahal, malah ngeyel. Pengen gue jedotin kepalanya!",Marah
+91,"Serius nanya, ini sistem kenapa error mulu dah? Capek banget gue ngulang dari awal!",Marah
+92,Muak banget gue sama drama yang gak ada abisnya ini.,Marah
+93,Nyesel gue percaya sama dia. Ujung-ujungnya cuma bikin gondok.,Marah
+94,"Plis deh, jangan bikin gue marah pagi-pagi gini napa.",Marah
+95,"Ini kerjaan numpuk banget, mana deadline mepet semua. Pengen nangis aja!",Marah
+96,Kok bisa sih dia ngomong gitu ke gue? Sakit banget hati ini.,Sedih
+97,"Hari ini rasanya berat banget, kayak ada beban segede gaban di pundak.",Sedih
+98,"Gue kira kita bakal selamanya, ternyata cuma sementara. Ambyar.",Sedih
+99,Nonton film sedih malah jadi ikutan mewek. Cengeng banget gue.,Sedih
+100,"Lagi kangen banget sama suasana dulu, pas semua masih baik-baik aja.",Sedih
+101,"Kadang ngerasa sendirian banget, padahal rame.",Sedih
+102,"Denger lagu galau auto keinget mantan. Hadeh, susah move on.",Sedih
+103,Kenapa sih ekspektasi gue selalu ketinggian? Jatuhnya sakit tau.,Sedih
+104,"Pengen cerita, tapi bingung mau cerita ke siapa. Akhirnya dipendem sendiri.",Sedih
+105,"Rasanya pengen menghilang aja bentar, capek sama semuanya.",Sedih
+106,"Gagal lagi, gagal lagi. Kapan ya gue bisa berhasil?",Sedih
+107,Wagelaseeeh! Dapet tiket konser idola dong! Gak nyangka banget!,Senang
+108,"Akhirnya, setelah sekian purnama, cair juga nih bonus! Auto foya-foya!",Senang
+109,"Gila sih, hari ini mood gue bagus banget! Semua terasa indah.",Senang
+110,Dapet pujian dari orang yang gue kagumi itu rasanya... MAU TERBANG!,Senang
+111,Gokil! Tim kesayangan gue menang lagi! Pesta pora!,Senang
+112,"Bahagia itu sederhana, kayak nemu duit di kantong celana lama.",Senang
+113,Ngakak so hard lihat video lucu barusan. Perut gue sampe sakit.,Senang
+114,"Akhirnya bisa me time juga! Nonton series maraton, surga dunia!",Senang
+115,Seneng banget pas tau sahabat gue akhirnya jadian sama gebetannya.,Senang
+116,Yeay! Paket yang ditunggu-tunggu akhirnya dateng juga!,Senang
+117,Liburan telah tiba! Hore! Hore! Hore!,Senang
+118,"Fix, ini hari terbaik di minggu ini. Semua berjalan lancar jaya!",Senang
+119,"Aduh, besok ujian tapi belum belajar sama sekali. Stres tingkat dewa!",Stress
+120,"Kerjaan belum kelar, udah dikasih kerjaan baru lagi. Kapan gue napasnya?",Stress
+121,Mikirin masa depan kok jadi cemas gini ya? Takut gak bisa jadi apa-apa.,Stress
+122,Presentasi di depan banyak orang tuh bikin jantung mau copot.,Stress
+123,Ini grup chat kenapa berisik banget sih? Bikin pusing kepala!,Stress
+124,"Duh, overthinking malem-malem gini emang paling bener bikin gak bisa tidur.",Stress
+125,Gue butuh refreshing! Otak udah ngebul banget kebanyakan mikir.,Stress
+126,Kenapa sih semua orang kayaknya nuntut gue jadi sempurna? Berat banget.,Stress
+127,"Anjir, dompet makin tipis, tanggal tua masih lama. Panik gak?",Stress
+128,"Badan pegel semua, pikiran juga capek. Butuh pijet plus liburan.",Stress
+129,Kepikiran terus omongan orang tadi. Bikin gak tenang.,Stress
+130,"Ya Allah, besok interview penting banget, lancarkanlah. Deg-degan parah.",Stress
+131,"Alhamdulillah, akhirnya project yang begadangin berbulan-bulan goal juga!",Bersyukur
+132,Makasih banget ya Allah buat semua kemudahan hari ini. Gak nyangka selancar ini.,Bersyukur
+133,Bersyukur banget punya circle pertemanan yang positif dan selalu support.,Bersyukur
+134,"Walaupun cuma dapet traktiran es teh, tapi seneng banget. Nikmat Tuhan mana lagi yang kau dustakan?",Bersyukur
+135,"Fiuh, akhirnya bisa rebahan tenang setelah seharian hectic. Makasih badan udah mau diajak kerja keras.",Bersyukur
+136,Lihat orang tua sehat aja udah jadi sumber kebahagiaan dan rasa syukur terbesar.,Bersyukur
+137,"Dapet notif 'Dana telah ditransfer'. Alhamdulillah, rejeki anak soleh.",Bersyukur
+138,Bersyukur masih dikasih kesempatan buat jadi lebih baik lagi setiap harinya.,Bersyukur
+139,"Capek sih, tapi pas lihat hasilnya, semua kebayar. Alhamdulillah.",Bersyukur
+140,"Terima kasih buat semua pengalaman, baik buruknya, jadi pelajaran berharga.",Bersyukur
+141,Setiap bangun pagi masih bisa napas aja udah anugerah luar biasa. Jangan lupa bersyukur.,Bersyukur
+142,"Makan enak, tidur nyenyak, teman baik. Kurang bersyukur apa lagi coba?",Bersyukur
+143,"Anj***, kenapa sih harus gue yang kena getahnya mulu!",Marah
+144,Gue udah muak banget sama janji-janji palsu lo itu!,Marah
+145,Ini orang otaknya dimana sih? Bikin keseeeeel!,Marah
+146,"Pengen gue tabok rasanya itu orang, sumpah!",Marah
+147,"Awas aja lo ya, gue cari sampe ketemu!",Marah
+148,"Bete maksimal, semua rencana ancur gara-gara dia.",Sedih
+149,"Nangis di pojokan kamar, gak ada yang peduli juga.",Sedih
+150,Kenapa sih takdir sekejam ini sama gue? Hiks.,Sedih
+151,"Rasanya pengen nyerah aja, udah gak kuat lagi.",Sedih
+152,"Kehilangan dia tuh kayak kehilangan separuh jiwa, eaaa.",Sedih
+153,ASIKKK! Akhirnya bisa nonton film yang udah lama gue pengen!,Senang
+154,Gak ada yang ngalahin rasa seneng pas dapet diskon gede!,Senang
+155,"Hari ini full senyum, soalnya banyak hal baik terjadi.",Senang
+156,"Ketawa sampe sakit perut gara-gara lawakan temen, hahaha.",Senang
+157,"Fix, ini jadi hari favorit gue sepanjang tahun!",Senang
+158,Pala gue puyeng banget mikirin skripsi gak kelar-kelar.,Stress
+159,"Cemas banget nungguin hasil ujian, takut ngecewain ortu.",Stress
+160,"Ini notif kerjaan gak berhenti-berhenti, kapan istirahatnya woy!",Stress
+161,"Gue butuh liburan sekarang juga, otak udah korslet!",Stress
+162,Kenapa sih hidup serumit ini? Pengen jadi ubur-ubur aja.,Stress
+163,"Alhamdulillah, masih bisa makan enak hari ini.",Bersyukur
+164,Bersyukur banget punya keluarga yang selalu ada buat gue.,Bersyukur
+165,Terima kasih Tuhan atas semua nikmat yang tak terhingga ini.,Bersyukur
+166,"Walaupun kecil, tapi pertolongan tadi berarti banget. Makasih ya.",Bersyukur
+167,"Setiap masalah pasti ada hikmahnya, gue bersyukur bisa belajar dari ini.",Bersyukur
+168,"Udah cukup sabar gue ngadepin lo, sekarang gue beneran marah!",Marah
+169,"Gue gak peduli lagi, terserah lo mau ngapain!",Marah
+170,Ini orang bener-bener gak punya empati apa gimana sih?!,Marah
+171,Mood ancur seharian gara-gara satu orang doang!,Marah
+172,Nyesek banget pas tau dikhianatin temen sendiri.,Sedih
+173,Pengen teriak sekenceng-kencengnya biar lega.,Sedih
+174,"Gue cuma butuh pelukan sekarang, itu aja.",Sedih
+175,"Akhirnya bisa beli barang impian pake duit sendiri, bangga pol!",Senang
+176,"Dapet kejutan ulang tahun dari temen-temen, terharu campur seneng!",Senang
+177,"Weekend ini mau full istirahat, recharge energi. Happy!",Senang
+178,"Gila, tugas kuliah numpuknya udah kayak gunung everest!",Stress
+179,"Besok senin lagi? Yah, baru juga weekend.",Stress
+180,Perut melilit mikirin presentasi di depan bos.,Stress
+181,"Alhamdulillah, selamat sampe tujuan tanpa kurang suatu apapun.",Bersyukur
+182,"Bersyukur dikasih kesehatan, jadi bisa aktivitas kayak biasa.",Bersyukur
+183,"Melihat senyum orang yang kita bantu itu rasanya adem banget, syukur.",Bersyukur
+184,"Seriusan deh, kelakuan lo tuh bikin gue pengen nge-flip meja tau gak!",Marah
+185,"Gue udah berusaha sabar ya, tapi ini udah kelewatan batas! Emosi gue!",Marah
+186,"Ini kenapa sih tiap gue lagi buru-buru, semua hal malah jadi lambat?! Sialan!",Marah
+187,Bisa gak sih sehari aja gak bikin gue naik pitam? Capek gue marah-marah terus!,Marah
+188,Nyesek banget lihat dia nge-block gue tanpa penjelasan. Apa salah gue coba?,Marah
+189,"Udah gue bela-belain, ternyata di belakang gue malah dijelek-jelekin. Bangsat emang!",Marah
+190,Ini tugas kenapa gak ada habisnya sih? Mau nangis darah aja rasanya!,Marah
+191,Gue gak terima diperlakukan kayak gini! Lo pikir gue apaan?!,Marah
+192,"Sumpah, pengen gue sleding itu orang yang nyerobot antrean!",Marah
+193,Panas banget kuping gue denger omongan dia. Gak ada akhlak!,Marah
+194,"Energi gue abis cuma buat nahan emosi hari ini. Sumpah, capek.",Marah
+195,"Woy lah, ini kenapa jadi gue yang disalahin sih? Gak adil banget!",Marah
+196,"Bikin perjanjian jam segini, datengnya telat sejam. Gak ngehargain waktu banget!",Marah
+197,"Gue udah ngasih ide bagus-bagus, malah dicuekin. Keselnya sampe ke ubun-ubun!",Marah
+198,Ini kenapa sih tiap mau nge-game koneksi selalu ampas?! Arghhh!,Marah
+199,"Liat aja ntar, gue bales perbuatan lo. Inget itu!",Marah
+200,Bisa-bisanya dia ngomong gitu di depan muka gue. Gak punya perasaan!,Marah
+201,"Gue lagi sensitif banget hari ini, jangan ada yang macem-macem deh!",Marah
+202,"Udah bagus-bagus mood gue, dirusak sama chat gak penting. Bangke!",Marah
+203,"Sumpah, pengen gue lempar HP saking keselnya sama notif error mulu!",Marah
+204,"Hari ini kayaknya awan lagi bersekongkol sama hati gue, sama-sama mendung.",Sedih
+205,"Nyesek itu pas udah berharap banget, eh ternyata cuma angan-angan.",Sedih
+206,"Kadang pengen punya tombol pause buat hidup, biar bisa istirahat bentar dari semua ini.",Sedih
+207,Dengerin lagu ini auto keinget semua kenangan pahit. Ambyar lagi deh.,Sedih
+208,"Gue tuh cuma pengen didengerin, bukan malah dihakimi. Sedih tau.",Sedih
+209,"Rasanya hampa banget, kayak ada yang hilang tapi gak tau apa.",Sedih
+210,"Malam ini bintangnya banyak, tapi hati gue tetep aja sepi.",Sedih
+211,"Coba aja waktu bisa diulang, mungkin gue gak bakal se-kecewa ini.",Sedih
+212,Nangis diem-diem sambil peluk guling itu udah jadi ritual mingguan.,Sedih
+213,"Dia bahagia sama yang lain, gue di sini masih belum bisa move on. Ironis.",Sedih
+214,"Kangen banget sama masa kecil, pas masalah terbesar cuma milih mainan.",Sedih
+215,Kadang senyum itu cuma topeng buat nutupin hati yang lagi remuk.,Sedih
+216,Gue capek pura-pura kuat terus di depan semua orang.,Sedih
+217,"Liat postingan liburan temen-temen, sementara gue di sini berkutat sama revisi. Nasib.",Sedih
+218,Kenapa sih orang yang kita sayang justru yang paling sering nyakitin?,Sedih
+219,"Pengen teriak tapi gak bisa, akhirnya cuma bisa nangis dalam hati.",Sedih
+220,"Lagi di fase 'yaudahlah ya', padahal dalem hati mah 'gak yaudah juga'.",Sedih
+221,"Berharap ada keajaiban, tapi kayaknya Tuhan lagi sibuk.",Sedih
+222,"Ternyata, kehilangan itu emang beneran sakit ya.",Sedih
+223,Gue cuma butuh seseorang yang ngerti tanpa gue harus banyak jelasin.,Sedih
+224,GILA GILA GILA! AKHIRNYA WISUDA JUGA! Perjuangan bertahun-tahun lunas!,Senang
+225,"Gak nyangka banget dapet surprise party dari temen-temen! Speechless, happy parah!",Senang
+226,YES! Diterima kerja di tempat impian! Mimpi apa gue semalem?!,Senang
+227,"Wihuuu, menang giveaway tiket konser K-Pop! Siap-siap lightstick!",Senang
+228,"Setelah sekian lama nabung, akhirnya kebeli juga PS5! Malam ini begadang!",Senang
+229,Dapet nilai A buat mata kuliah paling susah itu rasanya... LUAR BIASA!,Senang
+230,Sahabat gue nikah hari ini! Ikut seneng banget lihat dia bahagia!,Senang
+231,"Gak sia-sia nonton tutorial masak, akhirnya masakan gue enak juga! Bangga!",Senang
+232,"Mood hari ini: full senyum, full energi, full bahagia! Thanks universe!",Senang
+233,Ketemu idola secara gak sengaja di mall! Jantung mau copot saking senengnya!,Senang
+234,Akhirnya bisa ngumpul full team sama geng lama! Kangen banget!,Senang
+235,Dapet chat 'Aku juga kangen kamu' dari dia. MELELEH AKU TUH!,Senang
+236,"Fix, hari ini tanggal cantik buat jadian! Dan kita resmi dong!",Senang
+237,Nemu duit 100 ribu di saku jaket yang udah lama gak dipake. Rejeki nomplok!,Senang
+238,"Waktu liat saldo tiba-tiba nambah karena bonus cair, senyum langsung merekah!",Senang
+239,"Berhasil naklukin tantangan baru di game favorit, puas banget!",Senang
+240,"Diajakin liburan gratis sama kantor! Wih, rejeki anak baik!",Senang
+241,Akhirnya bisa nonton konser band legendaris secara live! Pecah banget!,Senang
+242,Dikasih hadiah yang udah lama banget gue pengenin. Senengnya gak bisa diungkapin!,Senang
+243,Lulus sidang skripsi tanpa revisi mayor! MAU SUJUD SYUKUR!,Senang
+244,"Aduh, deadline besok pagi jam 8, materi baru kekumpul setengah. Panik brutal!",Stress
+245,Ini kenapa sih laptop nge-freeze pas lagi ngerjain yang penting-penting?! Mau nangis!,Stress
+246,"Gila, grup WA kantor gak berhenti bunyi notifnya, padahal udah jam istirahat!",Stress
+247,Mikirin cicilan bulan depan yang udah antri bikin kepala nyut-nyutan.,Stress
+248,Besok ketemu calon mertua buat pertama kali. Jantung udah maraton dari sekarang.,Stress
+249,"Ini gimana caranya bagi waktu antara kuliah, organisasi, sama part-time? Mumet!",Stress
+250,"Presentasi di depan klien besar besok, takut banget nge-blank di tengah jalan.",Stress
+251,"Kenapa sih tiap mau ada acara penting, pasti ada aja drama yang bikin stres?",Stress
+252,"Udah belajar semaleman, tapi pas liat soal ujian, langsung amnesia. Hadeuh.",Stress
+253,"Perut mules banget dari pagi, kayaknya asam lambung naik gara-gara kebanyakan mikir.",Stress
+254,"Ngerasa dikejar-kejar waktu terus, kapan ya bisa santai beneran?",Stress
+255,"Ini kerjaan gak ada habis-habisnya, padahal tenaga udah di ujung tanduk.",Stress
+256,Lihat tumpukan email belum kebaca aja udah bikin pusing tujuh keliling.,Stress
+257,Takut banget hasilnya gak sesuai ekspektasi orang tua. Beban mental.,Stress
+258,"Kenapa sih semua orang kayaknya hidupnya udah pada mapan, gue gini-gini aja.",Stress
+259,"Mau tidur tapi pikiran kemana-mana, overthinking club mana suaranya?",Stress
+260,"Badan udah capek banget, tapi mata gak mau diajak kompromi buat tidur. Stres!",Stress
+261,Dompet menipis drastis padahal baru tengah bulan. Gimana nasib sampai akhir bulan?,Stress
+262,"Duh, salah kirim chat penting ke grup keluarga. MALU BANGET, STRES!",Stress
+263,"Bingung mau milih yang mana, dua-duanya penting. Otak rasanya mau meledak!",Stress
+264,"Alhamdulillah, akhirnya bisa selesain masalah yang ngeganjel dari kemarin. Plong banget.",Bersyukur
+265,"Makasih ya Allah, masih dikasih napas buat liat matahari pagi ini. Indah banget.",Bersyukur
+266,Bersyukur banget punya temen yang selalu ada di saat susah maupun senang. Kalian terbaik!,Bersyukur
+267,"Walaupun sederhana, bisa makan bareng keluarga lengkap itu nikmatnya luar biasa.",Bersyukur
+268,"Fiuh, presentasi tadi lancar jaya. Gak sia-sia begadang nyiapin materi. Syukur.",Bersyukur
+269,Ngerasa beruntung banget jadi bagian dari tim yang solid dan suportif ini.,Bersyukur
+270,"Dapet kabar baik yang gak disangka-sangka hari ini. Alhamdulillah, rejeki emang gak kemana.",Bersyukur
+271,Melihat orang lain tersenyum karena bantuan kecil kita itu rasanya... adem banget.,Bersyukur
+272,"Terima kasih Tuhan, Engkau selalu memberikan jalan keluar di setiap kesulitan.",Bersyukur
+273,"Sakit kemarin, hari ini udah bisa beraktivitas lagi. Nikmat sehat itu mahal harganya.",Bersyukur
+274,"Walaupun pernah gagal, tapi dari situ jadi banyak belajar. Bersyukur atas pelajarannya.",Bersyukur
+275,Punya atap buat berteduh dan makanan buat disantap setiap hari itu udah cukup buat disyukuri.,Bersyukur
+276,Selamat dari macet parah tadi pagi dan gak telat ngantor. Alhamdulillah.,Bersyukur
+277,"Bersyukur dikelilingi orang-orang yang tulus, bukan yang cuma ada maunya.",Bersyukur
+278,"Setiap kebaikan kecil yang kita terima, jangan lupa disyukuri. Itu nambah berkah.",Bersyukur
+279,"Ya Allah, terima kasih atas semua kesempatan dan anugerah yang tak pernah putus ini.",Bersyukur
+280,"Meskipun capek banget habis kerja, tapi masih bisa lihat anak istri senyum itu udah cukup.",Bersyukur
+281,"Dulu ngeluh terus, sekarang baru sadar betapa banyak hal yang harusnya disyukuri.",Bersyukur
+282,"Alhamdulillah, project sosial yang kita kerjain bareng akhirnya berdampak positif buat banyak orang.",Bersyukur
+283,Bisa menikmati secangkir kopi hangat di pagi hari sambil liat hujan. Syahdu dan patut disyukuri.,Bersyukur
+284,"Seriously deh, ini orang *literally* bikin gue pengen teriak anj***! Gak ada otaknya banget.",Marah
+285,"Capek banget gue sumpah, *he's so annoying*. Pengen gue block aja *contact*-nya, bangke!",Marah
+286,"Kampret emang ini kerjaan, udah deadline, revisi mulu lagi! *I can't even*.",Marah
+287,"Sialan! Kenapa sih *every time* gue lagi *chill*, ada aja yang bikin emosi?!",Marah
+288,Brengsek! Dia pikir gue bakal diem aja diginiin? *He's totally wrong*.,Marah
+289,Ta*k lah! Internetnya lemot banget pas lagi butuh cepet. *This is a nightmare*!,Marah
+290,"Gue udah *try my best* buat sabar, tapi kelakuannya *really testing my limits*. Anjirlah!",Marah
+291,"OMG, *he's so inconsiderate*! Bikin mood ancur seharian, *damn it*!",Marah
+292,Lo tuh *literally* gak ada empatinya ya? *How could you say that*? Bangsat!,Marah
+293,"Gue *literally* pengen nge-ghosting semua orang hari ini. *Too much drama*, anjir.",Marah
+294,"Udah dibilangin baik-baik, *still* aja ngeyel. *What the hell is wrong with you*?!",Marah
+295,"Ini macet *freaking* parah, telat gue jadinya! Sialan bener!",Marah
+296,"Kesel banget, *my ideas got rejected without any clear reason*. Kampret.",Marah
+297,"Dia *playing victim* mulu, padahal jelas-jelas dia yang salah. *So manipulative*, anjir!",Marah
+298,Gue udah capek banget *dealing with this bullshit*. *Enough is enough*!,Marah
+299,Rasanya pengen nangis *for real*. *My heart is broken into pieces*.,Sedih
+300,Lagi ngerasa *so empty inside*. Kayak ada yang kurang tapi *I don't know what it is*.,Sedih
+301,Kenapa sih *life is so unfair sometimes*? Gue cuma pengen *a little bit of happiness*.,Sedih
+302,"Liat *stories* temen-temen *holiday*, gue di sini *stuck* sama kerjaan. *So sad*.",Sedih
+303,"Dia udah *move on* secepet itu, sementara gue masih *stuck in the past*. Nyesek.",Sedih
+304,*Feeling so down and unmotivated today*. Pengen *scrolling TikTok all day long* aja.,Sedih
+305,"Kangen banget *our old memories*, kenapa semua harus berubah sih?",Sedih
+306,"*It hurts you know*, pas lo udah *invest so much feelings* tapi akhirnya sia-sia.",Sedih
+307,"Lagi pengen *being alone* aja, *my social battery is drain*ed.",Sedih
+308,"Kadang gue *wondering*, apa gue bakal *truly happy* suatu saat nanti?",Sedih
+309,"Dengerin lagu mellow sambil liatin hujan, *perfect combo* buat galau.",Sedih
+310,"Kecewa sih, *I expected more from him/her*. Ternyata cuma *another disappointment*.",Sedih
+311,Gue capek *pretending to be okay when I'm actually not*.,Sedih
+312,Rasanya *so lonely even in a crowd*. Pengen ada yang *genuinely care*.,Sedih
+313,*Missing someone who doesn't miss you back is the worst feeling ever*.,Sedih
+314,OMG! *I'm so freaking happy right now*! Gak nyangka banget dapet ini!,Senang
+315,Akhirnya *weekend* juga! *Time for self-reward and chillaxing*!,Senang
+316,"Wagelaaaaseh, *this is the best news ever*! Pengen traktir semua orang!",Senang
+317,Gue lagi *on cloud nine*! Semua *vibes*-nya positif banget hari ini.,Senang
+318,*Feeling so grateful and blessed*. Dapet kerjaan baru yang *totally me*!,Senang
+319,YES! *My favorite band is coming to town*! Auto beli tiket *front row*!,Senang
+320,"Habis *quality time* sama temen-temen, *mood booster* banget sumpah!",Senang
+321,Gak ada yang ngalahin rasanya pas *your crush notice you back*. *Butterflies in my stomach*!,Senang
+322,"Akhirnya, *my hard work paid off*! Lulus dengan predikat *cumlaude*!",Senang
+323,Seneng banget bisa *sharing happiness* sama orang-orang tersayang.,Senang
+324,*This is literally the highlight of my year*! So happy I could cry!,Senang
+325,"Dapet komplimen dari atasan, *such a confidence booster*! Semangat kerja lagi!",Senang
+326,Nemu kafe baru yang *aesthetically pleasing* dan kopinya enak. *Perfect*!,Senang
+327,"Yeay, paket belanjaan *online* gue dateng lebih cepet dari estimasi. *Love it*!",Senang
+328,"*Feeling super energetic and positive today*! Siap menaklukkan dunia, haha!",Senang
+329,"Aduh, *this deadline is killing me softly*. Belum ada progress signifikan, *I'm so stressed out*!",Stress
+330,"Kepala gue rasanya mau pecah, *so many things to think about*. Butuh *aspirin and holiday*.",Stress
+331,"Besok presentasi penting banget, *I'm so nervous I could puke*. *Wish me luck*!",Stress
+332,"Gila, kerjaan *num-puk like crazy*. Kapan gue bisa *me time* coba?",Stress
+333,Kenapa sih *everything feels so overwhelming right now*? Pengen *scream*!,Stress
+334,*My anxiety is kicking in*. Overthinking hal-hal yang belum tentu terjadi.,Stress
+335,Butuh *escape from reality* bentar. *Too much pressure*.,Stress
+336,Ini grup *chat* kenapa isinya kerjaan semua sih *even on weekends*? *Help*!,Stress
+337,"Rasanya kayak dikejar-kejar *something*, tapi gak tau apa. *So restless*.",Stress
+338,"Dompet makin tipis, *meanwhile my wishlist is getting longer*. *The struggle is real*.",Stress
+339,"Bingung banget mau ambil keputusan yang mana, *both options have pros and cons*.",Stress
+340,Belum tidur dari semalem gara-gara *insomnia attack*. *My brain won't shut up*.,Stress
+341,"Ngerasa *so unproductive* hari ini, padahal kerjaan banyak. *Guilty feeling activated*.",Stress
+342,Takut banget ngecewain ekspektasi orang-orang. *It's a heavy burden*.,Stress
+343,*Can someone please fast forward to the good part of my life*? Lagi capek banget.,Stress
+344,"Alhamdulillah, *finally this chaotic week is over*. Bersyukur banget bisa *survive*.",Bersyukur
+345,"Makasih banget ya Allah, *for all the unexpected blessings*. *Feeling so grateful*.",Bersyukur
+346,Bersyukur banget punya *support system* yang *always got my back no matter what*.,Bersyukur
+347,"Walaupun cuma hal kecil, tapi *it made my day*. *Thankful for small things*.",Bersyukur
+348,"Habis *deep talk* sama sahabat, hati jadi lebih lega. *Grateful for true friends*.",Bersyukur
+349,"Ngerasa *so content and peaceful right now*. Gak minta banyak, cuma ketenangan kayak gini.",Bersyukur
+350,Dikasih kesehatan itu *literally the biggest wealth*. Jangan lupa bersyukur *guys*.,Bersyukur
+351,Lihat orang tua senyum aja udah bikin hati adem. *Forever grateful for them*.,Bersyukur
+352,"Selesai ngerjain tugas berat, rasanya *so relieved and thankful*. Akhirnya!",Bersyukur
+353,"Meskipun banyak rintangan, tapi selalu ada jalan keluar. *God is good, all the time*.",Bersyukur
+354,"Bisa menikmati makanan enak hari ini, *such a simple yet profound blessing*.",Bersyukur
+355,"Bersyukur atas semua pelajaran hidup, *they made me who I am today*.",Bersyukur
+356,"Pagi ini bangun dengan perasaan ringan dan bahagia. *Thank you, universe*.",Bersyukur
+357,Dikelilingi orang-orang yang positif itu *truly a gift*. Bersyukur banget.,Bersyukur
+358,"Walaupun belum semua keinginan tercapai, tapi gue bersyukur sama apa yang udah gue punya sekarang. *It's enough*.",Bersyukur
+359,"Asli, pengen gue banting nih HP, lemotnya kebangetan!",Marah
+360,"Apaan sih nih orang, nyolot banget ngomongnya, bikin naik pitam!",Marah
+361,"Udah dibilangin baik-baik malah ngeyel, sumpah emosi gue!",Marah
+362,"Gue gak habis pikir sama kelakuan lo, bikin darah tinggi aja!",Marah
+363,"Bete maksimal, semua serba salah hari ini, pengen ngamuk!",Marah
+364,"Kerjaan gak kelar-kelar, deadline mepet, rasanya pengen teriak!",Marah
+365,"Sial banget hari ini, udah jatuh ketimpa tangga pula!",Marah
+366,"Ini sinyal kenapa ilang-ilangan mulu sih, bikin frustrasi!",Marah
+367,"Udah nunggu berjam-jam, eh malah dicancel seenaknya, kampret!",Marah
+368,"Aturan baru ini nyusahin banget, gak mikir apa ya yang bikin?!",Marah
+369,"Macetnya parah gila, telat gue gara-gara ini, arrrgh!",Marah
+370,Kenapa sih nasib gue apes terus? Kesel banget sumpah!,Marah
+371,"Udah begadang ngerjain tugas, eh filenya corrupt, pengen nangis marah!",Marah
+372,"Itu orang komennya pedes banget, gak pake filter apa ya mulutnya!",Marah
+373,Pengen jedotin kepala ke tembok saking keselnya!,Marah
+374,"Dompet tipis, tanggal tua, eh ada aja pengeluaran dadakan, emosi!",Marah
+375,"Cuaca gak nentu gini bikin mood swing parah, jadi gampang marah!",Marah
+376,"Tetangga sebelah nyetel musik kenceng banget, ganggu banget anjir!",Marah
+377,"Rencana udah mateng, eh ada aja yang bikin gagal total, sialan!",Marah
+378,"Capek banget sama drama picisan yang gak penting ini, bikin eneg!",Marah
+379,"Hati gue remuk redam, nyesek banget ditinggal pas lagi sayang-sayangnya.",Sedih
+380,Kenapa sih dia tega bohongin gue kayak gini?,Sedih
+381,"Galau berat, rasanya dunia runtuh seketika.",Sedih
+382,Harapan gue buat balikan sama dia udah gak ada lagi.,Sedih
+383,"Pengen nyerah aja sama keadaan, udah gak sanggup lagi.",Sedih
+384,"Kangen banget masa-masa indah dulu, sekarang semua tinggal kenangan.",Sedih
+385,"Nilai ujian anjlok padahal udah mati-matian belajar, sedih banget.",Sedih
+386,"Ngerasa kesepian banget, gak ada yang ngertiin perasaan gue.",Sedih
+387,"Nonton film sedih, eh malah ikutan nangis bombay.",Sedih
+388,Kehilangan sahabat tuh rasanya kayak kehilangan separuh jiwa.,Sedih
+389,"Udah berjuang keras, tapi hasilnya nihil, sedihnya gak ketulungan.",Sedih
+390,"Kadang mikir, kenapa ya gue selalu gagal dalam percintaan?",Sedih
+391,"Mau curhat tapi bingung mau cerita ke siapa, akhirnya nangis sendiri di kamar.",Sedih
+392,"Liat postingan mantan sama pacar barunya, auto nyesek.",Sedih
+393,"Gagal dapet kerjaan impian, rasanya down banget.",Sedih
+394,Di-ghosting tanpa penjelasan itu sakitnya tuh di sini.,Sedih
+395,"Dengerin lagu galau sambil hujan-hujan, paket komplit kesedihan.",Sedih
+396,"Ekspektasi terlalu tinggi, pas jatuh sakitnya gak main-main.",Sedih
+397,Rasanya pengen menghilang aja dari dunia ini.,Sedih
+398,"Lagi gak pengen diganggu, mau menyendiri dulu nenangin hati.",Sedih
+399,"Wihuuu! Akhirnya dapet tiket konser idola, senengnya gak ketulungan!",Senang
+400,"Asik banget, weekend ini mau liburan ke pantai, yeay!",Senang
+401,"Gilaaa, menang giveaway dapet HP baru, rejeki anak baik nih!",Senang
+402,"Hari ini seru abis, banyak ketawa bareng temen-temen!",Senang
+403,"Alhamdulillah, akhirnya lulus juga dengan predikat cumlaude, bangga banget!",Senang
+404,"Akhirnya bisa me time, nonton drakor maraton, bahagia itu sederhana!",Senang
+405,"Dikasih surprise ulang tahun sama keluarga, terharu plus seneng banget!",Senang
+406,"Gak nyangka bisa ketemu artis favorit pas lagi ngopi, mimpi apa coba!",Senang
+407,"Sidang skripsi lancar jaya, dosen pembimbing muji-muji, seneng pol!",Senang
+408,"Timnas menang lawan tim kuat, auto teriak kegirangan!",Senang
+409,"Dapet bonus akhir tahun, lumayan buat nambah tabungan, hehe!",Senang
+410,"Yeay, barang yang diincer dari lama akhirnya kebeli juga!",Senang
+411,"Hangout bareng geng emang paling seru, ngakak sampe sakit perut.",Senang
+412,Dapet nilai A buat mata kuliah paling susah? Mantap jiwa!,Senang
+413,Akhirnya kesampean juga nonton festival musik yang udah diimpi-impiin!,Senang
+414,Bisa ngebantu nenek nyebrang jalan aja udah bikin hati seneng.,Senang
+415,"Selamat ya buat kalian yang baru jadian, ikut bahagia deh ngeliatnya!",Senang
+416,"Abis dapet THR, langsung traktir keluarga makan enak, seru!",Senang
+417,"Pagi ini udaranya seger banget, bikin semangat seharian!",Senang
+418,"Nemu barang yang udah lama ilang, senengnya kayak nemu harta karun!",Senang
+419,"Aduh, mikirin presentasi besok di depan klien gede bikin mules.",Stress
+420,"Gimana nih ujian masuk universitas, saingannya banyak banget, deg-degan!",Stress
+421,Mikirin cicilan KPR yang belum lunas bikin kepala puyeng.,Stress
+422,"Cemas banget nungguin hasil interview kerja, semoga diterima.",Stress
+423,"Kerjaan overload, dikejar deadline dari bos, stres tingkat dewa!",Stress
+424,"Duh, mau pidato di acara nikahan temen, grogi parah nih.",Stress
+425,"Overthinking sebelum tidur itu emang penyakit, bikin insomnia.",Stress
+426,Takut banget gak bisa menuhi ekspektasi orang-orang terdekat.,Stress
+427,"Ini jantung kenapa berdebar kenceng banget ya, padahal gak ngapa-ngapain.",Stress
+428,Mikirin masa depan yang serba gak pasti kadang bikin cemas berlebihan.,Stress
+429,"Tugas kuliah numpuk kayak gunung, bingung mau ngerjain yang mana dulu.",Stress
+430,"Kok akhir-akhir ini jadi sering lupa naruh barang ya, kebanyakan pikiran nih.",Stress
+431,"Perut kembung tiap mau ujian penting, udah langganan kayaknya.",Stress
+432,"Berharap masalah ini cepet selesai, udah gak tahan sama tekanannya.",Stress
+433,Pusing tujuh keliling ngadepin drama kantor yang gak ada habisnya.,Stress
+434,"Kayaknya butuh refreshing ke tempat sepi deh, otak udah konslet.",Stress
+435,Kenapa sih semua orang kayaknya punya standar tinggi banget buat gue?,Stress
+436,"Gelisah nungguin balesan chat dari dosen, penting banget soalnya.",Stress
+437,"Badan remuk, pikiran suntuk, fix butuh pijet plus liburan.",Stress
+438,Tiap mau ambil keputusan besar pasti ada aja rasa was-wasnya.,Stress
+439,"Alhamdulillah, project yang dikerjain berbulan-bulan akhirnya goal juga, lega.",Bersyukur
+440,"Makasih ya Allah, masih dikasih napas buat ngejalanin hari ini dengan baik.",Bersyukur
+441,"Untung banget tadi gak jadi lewat jalan itu, ternyata ada kecelakaan.",Bersyukur
+442,"Syukurlah, kesalahpahaman kemarin udah clear, hubungan jadi baik lagi.",Bersyukur
+443,"Setelah melewati badai, akhirnya bisa ngerasain kedamaian lagi. Bersyukur.",Bersyukur
+444,"Akhirnya bisa bukber bareng temen-temen SMA, kangennya terobati, alhamdulillah.",Bersyukur
+445,"Walaupun cuma makan indomie, tapi kalo bareng orang tersayang nikmatnya luar biasa.",Bersyukur
+446,"Dikasih kesempatan buat belajar hal baru itu anugerah, patut disyukuri.",Bersyukur
+447,"Liat anak-anak kecil ketawa riang, itu udah cukup bikin hati adem dan bersyukur.",Bersyukur
+448,"Setiap kegagalan pasti ada pelajaran berharga, syukuri aja proses pendewasaannya.",Bersyukur
+449,Bersyukur banget dikelilingi orang-orang yang tulus dan suportif.,Bersyukur
+450,"Terima kasih Tuhan atas rejeki yang gak pernah berhenti mengalir, sekecil apapun itu.",Bersyukur
+451,"Selamat dari insiden kecil di jalan tadi pagi, alhamdulillah masih dijaga.",Bersyukur
+452,"Meski sering ngeluh, tapi kalo dipikir-pikir banyak banget hal yang bisa disyukuri.",Bersyukur
+453,"Akhirnya bisa ngelunasin utang ke temen, plong banget rasanya, alhamdulillah.",Bersyukur
+454,"Bangun pagi disambut kicau burung, hal sederhana yang bikin bersyukur.",Bersyukur
+455,"Dapet traktiran kopi dari temen pas lagi pengen banget, rejeki emang gak kemana.",Bersyukur
+456,Bersyukur masih punya pekerjaan di saat banyak yang lagi susah nyari kerja.,Bersyukur
+457,Melihat orang lain bahagia karena bantuan kita itu rasanya nyenengin dan bikin bersyukur.,Bersyukur
+458,"Walau hidup gak selalu mulus, tapi selalu ada alasan buat bilang 'alhamdulillah'.",Bersyukur
+559,"Fix no debat, ini orang ngeselinnya udah level dewa!",Marah
+560,Gue udah capek banget ngadepin tingkah lo yang minus akhlak ini!,Marah
+561,"Anjirrr, kenapa sih idup gue gini amat, pengen misuh-misuh!",Marah
+562,Nih provider internet apa gak niat jualan? Lemotnya bikin istighfar!,Marah
+563,"Plis deh, jangan bikin gue ngeluarin tanduk pagi-pagi!",Marah
+564,"Mood gue ancur lebur gara-gara lo, tanggung jawab woy!",Marah
+565,Ini kerjaan apa siksaan? Bikin pengen resign detik ini juga!,Marah
+566,"Sumpah, pengen gue sleding tekel orang yang bikin aturan ribet ini!",Marah
+567,"Udah dandan maksimal, eh acaranya batal, kan syaland!",Marah
+568,Kenapa sih orang julid itu ada di mana-mana? Pengen gue semprot baygon!,Marah
+569,"Gue lagi PMS apa gimana sih, bawaannya pengen ngegas mulu!",Marah
+570,"Ini tim kerja apa sirkus? Gak ada yang bener, bikin puyeng!",Marah
+571,"Kalo ngomong tuh dipikir dulu, jangan asal njeplak bikin sakit ati!",Marah
+572,"Gue udah berusaha sabar, tapi kesabaran gue ada batasnya, bangke!",Marah
+573,"Awas aja ya kalo ketemu lagi, gue gibeng lo!",Marah
+574,Rasanya pengen teriak sekenceng-kencengnya biar plong!,Marah
+575,Ini kenapa sih semua orang kayaknya sengaja banget bikin gue emosi?!,Marah
+576,"Udah cukup ya, gue gak mau denger bacotan lo lagi!",Marah
+577,Pengen gue unfriend semua orang di muka bumi ini rasanya!,Marah
+578,"Sumpah, hari ini gue declar sebagai hari termenyebalkan sedunia!",Marah
+579,"Nyeseknya tuh di sini, di hati yang paling dalem, hiks.",Sedih
+580,Kenapa sih takdir sekejam ini sama gue? Gak adil!,Sedih
+581,Rasanya pengen jadi amuba aja biar gak ngerasain sakit hati.,Sedih
+582,"Udah move on, eh dia dateng lagi bawa kenangan, kan sedih lagi.",Sedih
+583,Lagi di fase 'pura-pura bahagia padahal hati menangis'.,Sedih
+584,Denger lagu ini langsung auto galau tingkat kecamatan.,Sedih
+585,"Kenangan sama dia tuh kayak permen karet, susah ilangnya.",Sedih
+586,"Gue cuma butuh pundak buat nangis, ada yang mau minjemin?",Sedih
+587,"Kadang suka iri liat orang lain bahagia, kapan ya giliran gue?",Sedih
+588,"Pengen tidur aja biar lupa sama semua masalah, tapi gak bisa.",Sedih
+589,"Rasanya kayak jalan di tempat, gak ada kemajuan sama sekali.",Sedih
+590,"Udah capek-capek berjuang, eh malah dia milih yang lain, ambyar.",Sedih
+591,"Hati gue tuh bukan tempat penitipan barang, dateng pergi seenaknya.",Sedih
+592,"Lagi pengen menyendiri, meratapi nasib yang gak jelas ini.",Sedih
+593,Kenapa sih orang yang kita sayang malah nyakitin kita?,Sedih
+594,Air mata udah kering saking seringnya nangis.,Sedih
+595,"Pengen teriak 'AKU GAK KUAT!', tapi malu.",Sedih
+596,Semua janji manisnya ternyata cuma omong kosong belaka.,Sedih
+597,"Rasanya kayak ada batu gede yang ngeganjel di dada, sesek.",Sedih
+598,"Lagi butuh pelukan hangat, tapi gak ada yang bisa meluk.",Sedih
+599,"Yasss Queen! Akhirnya project gue di-approve, senengnya to the max!",Senang
+600,"Gokil parah, dapet kejutan liburan gratis ke Bali, aaaa!",Senang
+601,"Fix, hari ini mood gue lagi bagus banget, jangan dirusak ya!",Senang
+602,"Ketemu cogan pas lagi jogging, auto senyum-senyum sendiri.",Senang
+603,"Alhamdulillah, dapet rejeki nomplok, bisa traktir temen se-geng!",Senang
+604,"Akhirnya bisa nonton konser K-Pop idola, pecah banget semalem!",Senang
+605,Dapet pujian dari crush? Melting abis gueee!,Senang
+606,"Wih, menang lomba desain, bangganya bukan main!",Senang
+607,"Lulus ujian SIM setelah gagal berkali-kali, akhirnya!",Senang
+608,"Tim e-sport favorit juara dunia, teriak-teriak kegirangan di rumah!",Senang
+609,"Dapet diskon gede pas lagi belanja online, bahagia itu simpel.",Senang
+610,"Yeay, akhirnya bisa beli barang impian pake duit sendiri!",Senang
+611,"Ngumpul bareng keluarga besar pas lebaran, seru dan hangat banget.",Senang
+612,"Dikasih hadiah yang udah lama gue pengenin, speechless saking senengnya.",Senang
+613,"Akhirnya bisa traveling ke luar negeri, impian dari kecil!",Senang
+614,Bisa bikin orang tua bangga itu rasanya priceless banget.,Senang
+615,"Cieee yang baru dapet promosi jabatan, selamat ya, ikut seneng!",Senang
+616,"Abis dapet bonus, langsung foya-foya dikit, self reward itu penting.",Senang
+617,"Cuaca mendukung buat piknik, hati jadi ikutan cerah.",Senang
+618,"Nemu playlist lagu yang pas banget sama mood, auto joget!",Senang
+619,"Duh, presentasi di depan direksi besok, auto keringet dingin plus mules.",Stress
+620,Mikirin masa depan yang burem bikin anxiety kumat.,Stress
+621,"Tagihan kartu kredit numpuk, gaji belum turun, pusing pala berbi.",Stress
+622,"Cemas nungguin pengumuman kelulusan, takut zonk.",Stress
+623,"Kerjaan kayak gak ada abisnya, pengen cuti tapi gak bisa, help!",Stress
+624,Mau ngomong di depan umum tuh rasanya kayak mau pingsan.,Stress
+625,Overthinking tiap malem itu udah jadi ritual wajib sebelum tidur.,Stress
+626,"Takut banget ngecewain harapan keluarga, beban mental banget.",Stress
+627,"Ini jantung maraton mulu tiap ada notif dari dia, kenapa sih.",Stress
+628,Mikirin omongan tetangga yang julid bikin kepala berasap.,Stress
+629,"Tugas akhir makin deket deadline-nya, otak udah nge-freeze.",Stress
+630,"Sering banget blank pas lagi dibutuhin, kebanyakan beban pikiran nih.",Stress
+631,"Perut melilit tiap mau ketemu calon mertua, udah kayak mau ujian negara.",Stress
+632,Kapan ya semua masalah ini kelar? Udah capek banget lahir batin.,Stress
+633,Pusing ngadepin drama pertemanan yang ribetnya ngalahin sinetron.,Stress
+634,Butuh healing ke tempat yang gak ada sinyal biar otak istirahat.,Stress
+635,Kenapa sih ekspektasi orang lain ke gue tuh setinggi langit?,Stress
+636,Gelisah nungguin kepastian hubungan yang digantungin gini.,Stress
+637,"Badan udah kayak robot, kaku semua, butuh dipijet plus hibernasi.",Stress
+638,Tiap mau ambil risiko pasti ada aja suara-suara negatif di kepala.,Stress
+639,"Alhamdulillah, akhirnya bisa napas lega setelah semua ujian selesai.",Bersyukur
+640,"Makasih semesta, hari ini dikasih banyak kemudahan dan kelancaran.",Bersyukur
+641,Untung banget tadi sempet nge-charge HP sebelum mati total pas lagi butuh.,Bersyukur
+642,"Syukurlah, salah paham sama doi udah kelar, baikan lagi deh.",Bersyukur
+643,"Setelah semua drama dan air mata, akhirnya bisa senyum lagi. Bersyukur pol.",Bersyukur
+644,"Akhirnya bisa reuni sama temen-temen SD, nostalgia parah, alhamdulillah.",Bersyukur
+645,"Walaupun cuma nasi telor, tapi dimasakin orang tua tuh rasanya bintang lima.",Bersyukur
+646,Dikasih kesempatan buat memperbaiki diri itu anugerah terindah.,Bersyukur
+647,Liat kucing kampung lahiran dengan selamat aja udah bikin hati anget.,Bersyukur
+648,"Setiap masalah pasti ada jalan keluarnya, syukuri aja proses belajarnya.",Bersyukur
+649,Bersyukur banget punya support system yang selalu ada kapanpun dibutuhin.,Bersyukur
+650,"Terima kasih diri sendiri udah bertahan sejauh ini, kamu hebat!",Bersyukur
+651,"Selamat dari macet parah tadi pagi, alhamdulillah gak telat ngantor.",Bersyukur
+652,"Meski kadang pengen nyerah, tapi selalu ada hal kecil yang bikin bersyukur lagi.",Bersyukur
+653,"Akhirnya bisa beli kado buat orang tua dari hasil kerja keras sendiri, bangga!",Bersyukur
+654,"Bangun tidur denger suara adzan, adem banget rasanya, alhamdulillah.",Bersyukur
+655,"Dapet rekomendasi series bagus pas lagi gabut, rejeki anak mager.",Bersyukur
+656,Bersyukur masih bisa kerja dari rumah di saat cuaca lagi gak nentu.,Bersyukur
+657,Melihat orang lain tersenyum karena kebaikan kecil kita itu nagih banget.,Bersyukur
+658,"Walau keinginan belum semua tercapai, tapi kebutuhan selalu tercukupi. Alhamdulillah.",Bersyukur
