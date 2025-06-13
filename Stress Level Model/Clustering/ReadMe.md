@@ -1,6 +1,6 @@
-Made by : Istiqomah Auliya Rosyida
-ID : MC211D5X1078
-Path : Machine Learning Untuk Pemula 
+Made by : Istiqomah Auliya Rosyida\
+ID : MC211D5X1078\
+Path : Machine Learning Untuk Pemula\
 Google Colab Link : https://colab.research.google.com/drive/1aev0Mthxa265bku92SaCCNsZ7t0WbIuN?usp=sharing
 
 ---
